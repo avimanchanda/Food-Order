@@ -1,0 +1,470 @@
+{
+    "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+    "title": "Chicken Chizza",
+    "itemCards": [
+        {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                    "id": "127997500",
+                    "name": "Chicken Chizza",
+                    "category": "Chicken Chizza",
+                    "description": "Crunchy chicken topped with cheese, spicy sauce, veggies & herbs. All-chicken-no-crust pizza! [Serves 1]",
+                    "imageId": "5108c304c25e2360d28588a461e1f210",
+                    "inStock": 1,
+                    "price": 31905,
+                    "variants": {},
+                    "variantsV2": {},
+                    "addons": [
+                        {
+                            "groupId": "129683990",
+                            "groupName": "This goes well with",
+                            "choices": [
+                                {
+                                    "id": "110249501",
+                                    "name": "Chocolate Lava Cake",
+                                    "price": 10857,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249503",
+                                    "name": "Pepsi Black Can 300 ml",
+                                    "price": 5714,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249484",
+                                    "name": "Pepsi Can 300 ml",
+                                    "price": 5714,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249495",
+                                    "name": "French Fries - Medium",
+                                    "price": 9905,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249488",
+                                    "name": "Chicken Popcorn - Regular",
+                                    "price": 11524,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249489",
+                                    "name": "Hot Chicken Wings - 4pc",
+                                    "price": 17905,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249492",
+                                    "name": "Hot & Crispy Chicken-1pc",
+                                    "price": 11524,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249499",
+                                    "name": "Classic Chicken Roll",
+                                    "price": 11905,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                }
+                            ],
+                            "maxAddons": -1,
+                            "maxFreeAddons": -1
+                        }
+                    ],
+                    "itemAttribute": {
+                        "vegClassifier": "NONVEG"
+                    },
+                    "ribbon": {
+                        "text": "Bestseller",
+                        "textColor": "#ffffff",
+                        "topBackgroundColor": "#d53d4c",
+                        "bottomBackgroundColor": "#b02331"
+                    },
+                    "type": "ITEM",
+                    "offerTags": [
+                        {
+                            "title": "20% OFF",
+                            "subTitle": "USE SWIGGYIT",
+                            "textColor": "#DB6742",
+                            "backgroundColor": "#FAE8E3"
+                        }
+                    ],
+                    "itemBadge": {},
+                    "badgesV2": {},
+                    "isBestseller": true,
+                    "ratings": {
+                        "aggregatedRating": {
+                            "rating": "3.9",
+                            "ratingCount": "10 ratings",
+                            "ratingCountV2": "10"
+                        }
+                    }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+            }
+        },
+        {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                    "id": "127997507",
+                    "name": "Chicken Chizza & Wings Meal",
+                    "category": "Chicken Chizza",
+                    "description": "All-chicken-no-crust Chizza, 2 Pc Hot Wings and a Pepsi PET 475ml at a deal price [Serves 1-2]",
+                    "imageId": "120374790af673aae76c5a5d883d45ad",
+                    "inStock": 1,
+                    "price": 45905,
+                    "variants": {},
+                    "variantsV2": {},
+                    "addons": [
+                        {
+                            "groupId": "129683986",
+                            "groupName": "This goes well with",
+                            "choices": [
+                                {
+                                    "id": "110249501",
+                                    "name": "Chocolate Lava Cake",
+                                    "price": 10857,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249484",
+                                    "name": "Pepsi Can 300 ml",
+                                    "price": 5714,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249497",
+                                    "name": "French Fries - Large",
+                                    "price": 11905,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249495",
+                                    "name": "French Fries - Medium",
+                                    "price": 9905,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249487",
+                                    "name": "Chicken Popcorn - Medium",
+                                    "price": 16857,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249492",
+                                    "name": "Hot & Crispy Chicken-1pc",
+                                    "price": 11524,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249499",
+                                    "name": "Classic Chicken Roll",
+                                    "price": 11905,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                }
+                            ],
+                            "maxAddons": -1,
+                            "maxFreeAddons": -1
+                        }
+                    ],
+                    "itemAttribute": {
+                        "vegClassifier": "NONVEG"
+                    },
+                    "ribbon": {},
+                    "type": "ITEM",
+                    "offerTags": [
+                        {
+                            "title": "20% OFF",
+                            "subTitle": "USE SWIGGYIT",
+                            "textColor": "#DB6742",
+                            "backgroundColor": "#FAE8E3"
+                        }
+                    ],
+                    "itemBadge": {},
+                    "badgesV2": {},
+                    "ratings": {
+                        "aggregatedRating": {}
+                    }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+            }
+        },
+        {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                    "id": "127997505",
+                    "name": "Duo Chicken Chizza",
+                    "category": "Chicken Chizza",
+                    "description": "2 Crunchy all-chicken-no-crust Chizza topped with cheese, spicy sauce, veggies & herbs [Serves 2-3]",
+                    "imageId": "302d1fbc468a89dbc497f3181827a7f5",
+                    "inStock": 1,
+                    "price": 62857,
+                    "variants": {},
+                    "variantsV2": {},
+                    "addons": [
+                        {
+                            "groupId": "130678370",
+                            "groupName": "This goes well with",
+                            "choices": [
+                                {
+                                    "id": "110249501",
+                                    "name": "Chocolate Lava Cake",
+                                    "price": 10857,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249503",
+                                    "name": "Pepsi Black Can 300 ml",
+                                    "price": 5714,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249485",
+                                    "name": "Pepsi PET 475ml",
+                                    "price": 5714,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249496",
+                                    "name": "Tandoori Masala Dip -20gm",
+                                    "price": 2857,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249497",
+                                    "name": "French Fries - Large",
+                                    "price": 11905,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249492",
+                                    "name": "Hot & Crispy Chicken-1pc",
+                                    "price": 11524,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249489",
+                                    "name": "Hot Chicken Wings - 4pc",
+                                    "price": 17905,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249487",
+                                    "name": "Chicken Popcorn - Medium",
+                                    "price": 16857,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                }
+                            ],
+                            "maxAddons": -1,
+                            "maxFreeAddons": -1
+                        }
+                    ],
+                    "itemAttribute": {
+                        "vegClassifier": "NONVEG"
+                    },
+                    "ribbon": {},
+                    "type": "ITEM",
+                    "offerTags": [
+                        {
+                            "title": "20% OFF",
+                            "subTitle": "USE SWIGGYIT",
+                            "textColor": "#DB6742",
+                            "backgroundColor": "#FAE8E3"
+                        }
+                    ],
+                    "itemBadge": {},
+                    "badgesV2": {},
+                    "ratings": {
+                        "aggregatedRating": {}
+                    }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+            }
+        },
+        {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                    "id": "127997503",
+                    "name": "Chicken Chizza & Pepsi Combo",
+                    "category": "Chicken Chizza",
+                    "description": "Crunchy all-chicken-no-crust Chizza served with Pepsi PET 475ml [Serves 1]",
+                    "imageId": "aa3caff35ff99fab3dadcd1121a962ce",
+                    "inStock": 1,
+                    "price": 37619,
+                    "variants": {},
+                    "variantsV2": {},
+                    "itemAttribute": {
+                        "vegClassifier": "NONVEG"
+                    },
+                    "ribbon": {},
+                    "type": "ITEM",
+                    "offerTags": [
+                        {
+                            "title": "20% OFF",
+                            "subTitle": "USE SWIGGYIT",
+                            "textColor": "#DB6742",
+                            "backgroundColor": "#FAE8E3"
+                        }
+                    ],
+                    "itemBadge": {},
+                    "badgesV2": {},
+                    "ratings": {
+                        "aggregatedRating": {}
+                    }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+            }
+        },
+        {
+            "card": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                "info": {
+                    "id": "127997501",
+                    "name": "Chicken Chizza & Dessert Meal",
+                    "category": "Chicken Chizza",
+                    "description": "All-chicken-no-crust Chizza, Choco Lava Cake and a Pepsi PET 475ml at a deal price [Serves 1-2]",
+                    "imageId": "e4d425ed2f059e4e12c8b905f3bc7d99",
+                    "inStock": 1,
+                    "price": 46857,
+                    "variants": {},
+                    "variantsV2": {},
+                    "addons": [
+                        {
+                            "groupId": "129683975",
+                            "groupName": "This goes well with",
+                            "choices": [
+                                {
+                                    "id": "110249484",
+                                    "name": "Pepsi Can 300 ml",
+                                    "price": 5714,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249496",
+                                    "name": "Tandoori Masala Dip -20gm",
+                                    "price": 2857,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249495",
+                                    "name": "French Fries - Medium",
+                                    "price": 9905,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249497",
+                                    "name": "French Fries - Large",
+                                    "price": 11905,
+                                    "inStock": 1,
+                                    "isVeg": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249487",
+                                    "name": "Chicken Popcorn - Medium",
+                                    "price": 16857,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249489",
+                                    "name": "Hot Chicken Wings - 4pc",
+                                    "price": 17905,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249492",
+                                    "name": "Hot & Crispy Chicken-1pc",
+                                    "price": 11524,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                },
+                                {
+                                    "id": "110249499",
+                                    "name": "Classic Chicken Roll",
+                                    "price": 11905,
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                }
+                            ],
+                            "maxAddons": -1,
+                            "maxFreeAddons": -1
+                        }
+                    ],
+                    "itemAttribute": {
+                        "vegClassifier": "NONVEG"
+                    },
+                    "ribbon": {},
+                    "type": "ITEM",
+                    "offerTags": [
+                        {
+                            "title": "20% OFF",
+                            "subTitle": "USE SWIGGYIT",
+                            "textColor": "#DB6742",
+                            "backgroundColor": "#FAE8E3"
+                        }
+                    ],
+                    "itemBadge": {},
+                    "badgesV2": {},
+                    "ratings": {
+                        "aggregatedRating": {}
+                    }
+                },
+                "analytics": {},
+                "hideRestaurantDetails": true
+            }
+        }
+    ]
+}
